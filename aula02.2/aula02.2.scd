@@ -46,16 +46,16 @@ LFPulse.ar()
 //(não se preocupe se vc não entende a sintaxe desse exemplo...)
 ({[
 	SinOsc.ar(freq:300),               //ONDA SENÓIDE
-	LFSaw.ar(freq:300),                //ONDA "DENTE-DE-SERRA"
+	LFSaw.ar(freq:300),                //ONDA DENTE-DE-SERRA
 	LFPulse.ar(freq:300, add:-0.5),    //ONDA QUADRADA
 	LFTri.ar(freq:300)                 //ONDA TRIANGULAR
 ]}.plot(1/30))
 
-//como cada onda faz a coluna se movimentar?
+//como cada forma de onda modifica a movimentação da coluna?
 
 //EXERCÍCIOS
-//1 - crie osciladores simples, para se familiarizar com a sintaxe do SC, e com os valores possíveis de amplitude e frequência.
-//2 - crie osciladores, e explore as sonoridades que surgem quando diferentes frequências soam *ao mesmo tempo*. por exemplo: o que acontece quando duas senóides com diferença de 1Hz entre sí soam juntas?
+//1 - crie osciladores simples, para se familiarizar com a sintaxe do SC, os valores possíveis de amplitude e frequência, e a sonoridade de cada forma de onda.
+//2 - crie osciladores, e explore as sonoridades que surgem quando diferentes frequências soam *ao mesmo tempo*. por exemplo: o que acontece quando duas senóides com diferença de 1Hz entre si soam juntas?
 
 //dica: para executar mais de uma linha ao mesmo tempo, coloque parênteses "()" em volta das várias linhas, um ponto e vírgula ao final ";" de cada linha, e avalie usando control + enter. assim:
 (
