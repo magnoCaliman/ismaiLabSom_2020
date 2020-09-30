@@ -1,69 +1,3 @@
-Bloco de notas colaborativo: http://collabedit.com/pewt5
-
-* AULA 01.1 - 21/09/2020
-- Softwares
-  - Supercollider: https://supercollider.github.io/
-  - SonicPi - https://sonic-pi.net/
-  - Reaper: https://www.reaper.fm/
-
-* AULA 01.2 - 21/09/2020
-Não houve
-
-* AULA 02.1 - 28/09/2020
-
-** SUPERCOLLIDER
-
-#+BEGIN_QUOTE
-A platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound.
-#+END_QUOTE
-
-- Copiem esse código na IDE do SC:
-
-#+BEGIN_SRC ruby
-//bem vindos ao SuperCollider
-
-2+2
-
-3*((57/4.7)*pi.sqrt)
-
-rrand(10, 50)
-
-"no Processing isso aqui se chamava 'println()'".postln
-
-Env.perc.test
-
-s.boot //se não ligar o servidor, não há som...
-
-{(SinOsc.ar(MouseX.kr(440,880), mul:0.05))!2}.play
-
-{LFSaw.ar(LFTri.kr(XLine.kr(1, 500, 15)).range(100, 666), mul:0.05)!2}.play
-
-{Pulse.ar(LFNoise0.kr(10).range(200, 800), mul:0.05)!2}.play
-
-{LPF.ar(WhiteNoise.ar(mul: 0.1), MouseX.kr(100, 10000))!2}.play
-
-{GVerb.ar(Resonz.ar(LFNoise0.ar(10), 2000, 0.05, mul: 0.5))!2}.play
-#+END_SRC
-
-- Dois atalhos de teclado mais importantes
-  - shift + enter -> avalia uma linha de código
-  - ctrl + . (ponto) -> interrompe todos os sons
-
-- Disco feito com SC, com códigos de menos de 140 caracteres: https://archive.org/details/sc140
-* AULA 02.2 - 01/10/2020 
-
-- Som acústico & Forma de onda
-  - https://www.youtube.com/watch?v=RpT-h5tPYdw
-  - https://animagraffs.com/loudspeaker/
-  - https://www.youtube.com/watch?v=GuCdsyCWmt8&t=314s
-
-- Síntese sonora & Osciladores
-  - Frequência
-  - Amplitude
-
-
-- Código:
-#+BEGIN_SRC ruby
 s.boot //liga o servidor. sem isso, nada funciona!
 
 {}.play //tudo dentro das chavetas, vai soar
@@ -112,12 +46,12 @@ LFPulse.ar()
 //(não se preocupe se vc não entende a sintaxe desse exemplo...)
 ({[
 	SinOsc.ar(freq:300),               //ONDA SENÓIDE
-	LFSaw.ar(freq:300),                //ONDA DENTE-DE-SERRA
+	LFSaw.ar(freq:300),                //ONDA "DENTE-DE-SERRA"
 	LFPulse.ar(freq:300, add:-0.5),    //ONDA QUADRADA
 	LFTri.ar(freq:300)                 //ONDA TRIANGULAR
 ]}.plot(1/30))
 
-//como cada forma de onda modifica a movimentação da coluna?
+//como cada onda faz a coluna se movimentar?
 
 //EXERCÍCIOS
 //1 - crie osciladores simples, para se familiarizar com a sintaxe do SC, e com os valores possíveis de amplitude e frequência.
@@ -128,4 +62,10 @@ LFPulse.ar()
 {SinOsc.ar(freq: 300, mul:0.1)!2}.play;
 {SinOsc.ar(freq: 450, mul:0.1)!2}.play;
 )
-#+END_SRC
+
+
+
+
+
+
+
