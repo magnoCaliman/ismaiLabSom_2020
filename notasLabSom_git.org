@@ -50,7 +50,7 @@ s.boot //se não ligar o servidor, não há som...
   - ctrl + . (ponto) -> interrompe todos os sons
 
 - Disco feito com SC, com códigos de menos de 140 caracteres: https://archive.org/details/sc140
-* AULA 02.2 - 01/10/2020 
+* AULA 02.2 - 01/10/2020
 
 - Som acústico & Forma de onda
   - https://www.youtube.com/watch?v=RpT-h5tPYdw
@@ -129,3 +129,7 @@ LFPulse.ar()
 {SinOsc.ar(freq: 450, mul:0.1)!2}.play;
 )
 #+END_SRC
+* AULA 03.1 - 05/10/2020
+- Feriado
+* AULA 03.2 - 08/10/2020
+- Continuação discussão da Aula 2.2
