@@ -188,7 +188,15 @@ Magno - 13 Hz
 
 //como então podemos usar a função MouseX.kr para KRONTROLAR a frequência de um oscilador (e ver os seus valores)?
 
+//sugestão do Miguel:
+{SinOsc.ar(freq:MouseX.kr(minval:500, maxval:100),mul:0.1)}.play;
+//reparem no uso invertido dos valores dos argumentos minval e maxval. não está errado! pode até ser interessante. algo como isso:
 
+(
+{SinOsc.ar(freq:MouseX.kr(minval:500, maxval:100).poll, mul:0.1)!2}.play;
+{SinOsc.ar(freq:MouseX.kr(minval:100, maxval:500).poll, mul:0.1)!2}.play;
+)
+//o que acontece quando o mouse está no meio da tela?
 
 
 
