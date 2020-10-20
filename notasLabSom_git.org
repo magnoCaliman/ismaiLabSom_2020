@@ -155,6 +155,7 @@ Magno - 13 Hz
 * AULA 04.2 - 15/10/2020
 - Não houve. Para remarcação.
 * AULA 05.1 - 19/10/2020
+- Código:
 #+BEGIN_SRC ruby
 (
 {SinOsc.ar(300, mul:0.1)!2}.play;
@@ -226,3 +227,13 @@ Magno - 13 Hz
 {LFPulse.ar(freq:MouseY.kr(minval:50, maxval:60), mul:0.05)!2}.play;
 )
 #+END_SRC
+
+- Referências extras:
+  - Teremin: https://en.wikipedia.org/wiki/Theremin
+    - 1950's SciFi - https://www.youtube.com/watch?v=nYaT704C7_w
+    - Clara Rockmore - https://www.youtube.com/watch?v=pSzTPGlNa5U
+    - Carolina Eyck
+      - https://www.youtube.com/watch?v=ajM4vYCZMZk
+      - https://www.youtube.com/watch?v=MJACNHHuGp0
+    - Julia Teles - https://juliateles.com/composicoes
+  - Para pensar: no nosso oscilador ~SinOsc.ar()~, controlado por ~MouseX.kr()~, que características sonoras (ou seja, algo que podemos perceber na escuta) remetem ao teremin? 
