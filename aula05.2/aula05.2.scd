@@ -18,7 +18,8 @@ s.record(numChannels:1)
 s.stopRecording
 
 //pronto, está gravado. mas onde está o arquivo de áudio?
-//a post window te dá o caminho, algo como "path: C:\Documents\..." ou "path: /Users/seuNome/Music/..."
-//você também pode avaliar essa linha para descobrir (funciona no Windows?)
+//a post window te dá o caminho, algo como "path: C:\Users\SEU USUÁRIO\Documents\SuperCollider\Recording\..." ou "path: /Users/SEU USUÁRIO/Music/..."
+
+//você também pode avaliar essa linha para descobrir
 thisProcess.platform.recordingsDir
 
