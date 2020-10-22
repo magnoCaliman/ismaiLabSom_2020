@@ -237,3 +237,53 @@ Magno - 13 Hz
       - https://www.youtube.com/watch?v=MJACNHHuGp0
     - Julia Teles - https://juliateles.com/composicoes
   - Para pensar: no nosso oscilador ~SinOsc.ar()~, controlado por ~MouseX.kr()~, que características sonoras (ou seja, algo que podemos perceber na escuta) remetem ao teremin? 
+* AULA 05.2 - 21/10/2020
+- Gerando arquivos de áudio com SuperCollider
+
+- Código:
+#+BEGIN_SRC ruby
+s.boot //sem isso, nada funciona...
+
+//como gravar o som gerado pelo SC em um arquivo de áudio?
+//siga os três passos a seguir, na sequência:
+
+//1 - comece a gravação
+//repare nas mensagens que aparecem na post window (além de um pequeno "R" vermelho no canto inferior direito da barra de status)
+s.record(numChannels:1)
+
+//2 - gere algum som
+(
+{LFPulse.ar(freq:50.5, mul:0.1)!2}.play;
+{LFPulse.ar(freq:MouseY.kr(minval:50, maxval:60), mul:0.1)!2}.play;
+)
+
+//3 - pare a gravação
+//novamente, veja o que diz a post window
+s.stopRecording
+
+//pronto, está gravado. mas onde está o arquivo de áudio?
+//a post window te dá o caminho, algo como "path: C:\Documents\..." ou "path: /Users/seuNome/Music/..."
+//você também pode avaliar essa linha para descobrir (funciona no Windows?)
+thisProcess.platform.recordingsDir
+#+END_SRC
+
+- Reaper:
+  - https://www.reaper.fm/
+
+- Procedimentos para investigar
+  - Importando arquivos
+  - Controles do tracks
+    - Volume
+    - Solo / mute
+    - Indicador de nível
+  - Track master
+  - Controle de itens
+    - Posição
+    - Tamanho / cortes + snap
+    - Volume
+    - Fade-in / fade-out
+  - Salvando o projeto
+    - Gerenciamento de assets
+      - Preferences > Media > "copy imported media to project media directory"
+
+
