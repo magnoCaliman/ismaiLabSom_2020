@@ -132,7 +132,7 @@ LFPulse.ar()
 * AULA 03.1 - 05/10/2020
 - Feriado
 * AULA 03.2 - 08/10/2020
-- Continuação discussão da Aula 2.2
+- Continuação discussão da aula 2.2
 * AULA 04.1 - 12/10/2020
 #+BEGIN_SRC ruby
 //para avaliar dois osciladores simultaneamente, criar um bloco de código usando parêntesis (), e avaliar com ctrl + enter (no Mac, command + enter)
@@ -262,8 +262,9 @@ s.record(numChannels:1)
 s.stopRecording
 
 //pronto, está gravado. mas onde está o arquivo de áudio?
-//a post window te dá o caminho, algo como "path: C:\Documents\..." ou "path: /Users/seuNome/Music/..."
-//você também pode avaliar essa linha para descobrir (funciona no Windows?)
+//a post window te dá o caminho. No Windows: "path: C:\Users\SEU USUÁRIO\Documents\SuperCollider\Recording\...". Ou no macOS "path: /Users/SEU USUÁRIO/Music/..."
+
+//você também pode avaliar essa linha para descobrir o endereço da pasta
 thisProcess.platform.recordingsDir
 #+END_SRC
 
@@ -287,3 +288,5 @@ thisProcess.platform.recordingsDir
       - Preferences > Media > "copy imported media to project media directory"
 
 
+* AULA 06.2 - 26/10/2020
+- Continuação discussão da aula 05.2
