@@ -287,6 +287,5 @@ thisProcess.platform.recordingsDir
     - Gerenciamento de assets
       - Preferences > Media > "copy imported media to project media directory"
 
-
-* AULA 06.2 - 26/10/2020
+* AULA 06.1 - 26/10/2020
 - Continuação discussão da aula 05.2
