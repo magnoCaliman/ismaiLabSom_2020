@@ -7,7 +7,7 @@ Bloco de notas colaborativo: http://collabedit.com/pewt5
   - Reaper: https://www.reaper.fm/
 
 * AULA 01.2 - 21/09/2020
-- Não houve. Para remarcação.
+- Não houve. Para compensar.
 
 * AULA 02.1 - 28/09/2020
 
@@ -153,7 +153,7 @@ Jade - 6 Hz
 Magno - 13 Hz
 #+END_SRC
 * AULA 04.2 - 15/10/2020
-- Não houve. Para remarcação.
+- Não houve. Para compensar.
 * AULA 05.1 - 19/10/2020
 - Código:
 #+BEGIN_SRC ruby
@@ -237,7 +237,9 @@ Magno - 13 Hz
       - https://www.youtube.com/watch?v=MJACNHHuGp0
     - Julia Teles - https://juliateles.com/composicoes
   - Para pensar: no nosso oscilador ~SinOsc.ar()~, controlado por ~MouseX.kr()~, que características sonoras (ou seja, algo que podemos perceber na escuta) remetem ao teremin? 
-* AULA 05.2 - 21/10/2020
+* AULA 05.2 - 22/10/2020
+- Para compensar (EAD não válida no sistema)
+
 - Gerando arquivos de áudio com SuperCollider
 
 - Código:
@@ -289,3 +291,21 @@ thisProcess.platform.recordingsDir
 
 * AULA 06.1 - 26/10/2020
 - Continuação discussão da aula 05.2
+* AULA 06.2 - 29/10/2020
+- Edição básica (corte, fade, posição, volume) como intervenção criativa:
+  - The Amen Break - https://www.youtube.com/watch?v=rvCZ-HmXtCc
+    - The Most Sampled Loop in Music History - https://www.youtube.com/watch?v=v89CjsSOJ_c
+    - The History of The Amen Break - https://www.youtube.com/watch?v=FFKMtv8tU0U
+  
+  - Narrativas sonoras
+    - Johannes Kreidler - /Hitle's Rage remixed in order of volume/ - https://www.youtube.com/watch?v=qpAz8zXvnww
+    - Henrique Iwao
+      - /caboclo faroeste/ - https://soundcloud.com/henrique-iwao/caboclo-faroeste
+	- Original, para referência - https://www.youtube.com/watch?v=U3ewnBFOkME
+      - Disco /Coleções Digitais/ - https://seminalrecords.bandcamp.com/album/cole-es-digitais
+
+- Exercício!
+  - No Reaper, utilizar os principios de edição até aqui vistos para construir uma narrativa sonora com aproximadamente 1m30s de duração.
+  - Os samples manipulados devem ser, preferencialmente, gerados através dos procedimentos de síntese estudados no SuperCollider.
+    - Dica: revisar as várias opções de geração sonora vistas até aqui: formas de ondas diversas, interferência entre osciladores que soam ao mesmo tempo, controle de parâmetros através de input do mouse, etc.
+  - Considere os sons gerados no SC não como resultado final, mas como /ponto de partida/ de um processo de experimentação sonora que acontecerá através das manipulações efetuadas no Reaper. 
