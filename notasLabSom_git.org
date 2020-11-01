@@ -302,7 +302,7 @@ thisProcess.platform.recordingsDir
     - Henrique Iwao
       - /caboclo faroeste/ - https://soundcloud.com/henrique-iwao/caboclo-faroeste
 	- Original, para referência - https://www.youtube.com/watch?v=U3ewnBFOkME
-      - Disco /Coleções Digitais/ - https://seminalrecords.bandcamp.com/album/cole-es-digitais
+	- Disco /Coleções Digitais/ - https://seminalrecords.bandcamp.com/album/cole-es-digitais
 
 - Exercício!
   - No Reaper, utilizar os principios de edição até aqui vistos para construir uma narrativa sonora com aproximadamente 1m30s de duração.
