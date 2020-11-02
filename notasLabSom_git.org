@@ -6,7 +6,7 @@ Bloco de notas colaborativo: http://collabedit.com/pewt5
   - SonicPi - https://sonic-pi.net/
   - Reaper: https://www.reaper.fm/
 
-* AULA 01.2 - 21/09/2020
+* AULA 01.2 - 24/09/2020
 - Não houve. Para compensar.
 
 * AULA 02.1 - 28/09/2020
@@ -309,3 +309,16 @@ thisProcess.platform.recordingsDir
   - Os samples manipulados devem ser, preferencialmente, gerados através dos procedimentos de síntese estudados no SuperCollider.
     - Dica: revisar as várias opções de geração sonora vistas até aqui: formas de ondas diversas, interferência entre osciladores que soam ao mesmo tempo, controle de parâmetros através de input do mouse, etc.
   - Considere os sons gerados no SC não como resultado final, mas como /ponto de partida/ de um processo de experimentação sonora que acontecerá através das manipulações efetuadas no Reaper. 
+* AULA 07.1 - 02/11/2020
+- Exemplos discutidos em aula
+  - "Every Other Beat" meme:
+    - https://www.youtube.com/watch?v=jLvDnRU_ajk
+    - https://www.youtube.com/watch?v=1d6kkZFA6xo
+    - https://www.youtube.com/watch?v=fG8uKIqt9Nc
+    - https://www.youtube.com/watch?v=q79qO3-PWeQ
+  - Vale da estranheza ("Uncanny Valley")
+    - https://pt.wikipedia.org/wiki/Vale_da_estranheza
+    - https://en.wikipedia.org/wiki/Uncanny_valley
+    - https://mummyboon.files.wordpress.com/2014/10/uncanny-valley.jpg?w=545&h=272
+    - https://www.google.com/search?tbm=isch&q=sonic%20the%20movie&tbs=imgo:1#imgrc=Ooo4o5VoyzxdfM
+    - https://www.google.com/search?tbm=isch&q=ex%20machina&tbs=imgo:1
