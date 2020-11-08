@@ -8,7 +8,7 @@ Bloco de notas colaborativo: http://collabedit.com/pewt5
 
 * AULA 01.2 - 24/09/2020
 - Não houve. Para compensar.
-
+  - Compensada no dia 09/11/2020
 * AULA 02.1 - 28/09/2020
 
 ** SUPERCOLLIDER
@@ -286,8 +286,10 @@ thisProcess.platform.recordingsDir
     - Volume
     - Fade-in / fade-out
   - Salvando o projeto
+    - Quando salvar, marcar as opções:
+      - "Create subdirectory for project" & "Copy all media into project directory"
     - Gerenciamento de assets
-      - Preferences > Media > "copy imported media to project media directory"
+      - Preferences > Media > "Copy imported media to project media directory"
 
 * AULA 06.1 - 26/10/2020
 - Continuação discussão da aula 05.2
@@ -324,3 +326,19 @@ thisProcess.platform.recordingsDir
     - https://www.google.com/search?tbm=isch&q=ex%20machina&tbs=imgo:1
 * AULA 07.2 - 05/11/2020
 - Continuação discussão exercício da aula 6.2
+* AULA 08.1 - 09/11/2020
+- Aula em horário regular (10:15 às 11:15) + compensação da aula 01.2 - 24/09/2020 (11:15 às 13:15)
+
+- Conceitos:
+  - Textura
+    - Densidade
+    - Articulação
+  - Parametrização
+    - Contraste
+
+- Exemplos:
+  - Skrillex - https://www.youtube.com/watch?v=2cXDgFwE13g
+  - Lil Mama - https://www.youtube.com/watch?v=BCvXzjGRnKc
+  - Ligeti - https://www.youtube.com/watch?v=iPgwF3G5i4k
+  - Hurt Locker - https://www.youtube.com/watch?v=HsFVDM1lffM
+  - Lost Highway - https://www.youtube.com/watch?v=qZowK0NAvig
