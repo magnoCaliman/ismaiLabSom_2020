@@ -322,3 +322,5 @@ thisProcess.platform.recordingsDir
     - https://mummyboon.files.wordpress.com/2014/10/uncanny-valley.jpg?w=545&h=272
     - https://www.google.com/search?tbm=isch&q=sonic%20the%20movie&tbs=imgo:1#imgrc=Ooo4o5VoyzxdfM
     - https://www.google.com/search?tbm=isch&q=ex%20machina&tbs=imgo:1
+* AULA 07.2 - 05/11/2020
+- Continuação discussão exercício da aula 6.2
