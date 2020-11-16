@@ -342,3 +342,7 @@ thisProcess.platform.recordingsDir
   - Ligeti - https://www.youtube.com/watch?v=iPgwF3G5i4k
   - Hurt Locker - https://www.youtube.com/watch?v=HsFVDM1lffM
   - Lost Highway - https://www.youtube.com/watch?v=qZowK0NAvig
+* AULA 08.2 - 12/11/2020
+- Não houve. Para compensar.
+* AULA 09.1 - 16/11/202
+- Continuação da discussão da aula 08.1
