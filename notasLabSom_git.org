@@ -336,6 +336,8 @@ thisProcess.platform.recordingsDir
   - Parametrização
     - Contraste
 
+[/aula08.1/textura.png]
+
 - Exemplos:
   - Skrillex - https://www.youtube.com/watch?v=2cXDgFwE13g
   - Lil Mama - https://www.youtube.com/watch?v=BCvXzjGRnKc
@@ -349,7 +351,7 @@ thisProcess.platform.recordingsDir
 * AULA 09.2 - 19/11/2020
 - Continuação da discussão da aula 08.1
 
-- Download do trecho de David Lynch - Lost Highway (1997): [[/aula09.2/lostHighway.mov][pasta da aula 09.2]]
+- Download do trecho de David Lynch - Lost Highway (1997): [[/aula09.2/lostHighway.mov][pasta da aula 09.2]] (clicar no botão /Download/ à direita)
 
 - Links extras vistos em aula:
   - Tinnitus - https://en.wikipedia.org/wiki/Tinnitus
