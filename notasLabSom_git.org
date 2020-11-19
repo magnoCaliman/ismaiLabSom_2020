@@ -336,7 +336,7 @@ thisProcess.platform.recordingsDir
   - Parametrização
     - Contraste
 
-[/aula08.1/textura.png]
+[[/aula08.1/textura.png]]
 
 - Exemplos:
   - Skrillex - https://www.youtube.com/watch?v=2cXDgFwE13g
