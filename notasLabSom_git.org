@@ -362,7 +362,7 @@ thisProcess.platform.recordingsDir
   - Every Frame a Painting - Jacki Chan - How to Do Action Comedy - https://www.youtube.com/watch?v=Z1PCtIaM_GQ
   - Nerdwriter1 - https://www.youtube.com/user/Nerdwriter1/videos
 
-* AULA 10.1 - 21/11/2020
+* AULA 10.1 - 23/11/2020
 - Aula em horário regular (10:15 às 11:15) + compensação da aula 05.2 - 22/10/2020 (11:15 às 13:15)
 
 - David Lynch - Lost Highway (1997):
@@ -381,3 +381,4 @@ thisProcess.platform.recordingsDir
     - Demonstre como os /parâmetros sonoros/ estudados (frequência, amplitude, textura, etc) se relacionam com outros elementos do objeto audiovisual (planos, diálogo, tempo, construção do personagem, etc).
     - Tente responder perguntas como "Por que esse som está aqui?", "Qual função ele cumpre?", "Por será que esse som foi construído dessa maneira?".
   - Para as cenas que por ventura não tenham elementos sonoros suficientes para análise, escolha outra cena do mesmo filme.
+# * AULA 10.2 - 26/11/2020
