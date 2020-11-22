@@ -366,7 +366,7 @@ thisProcess.platform.recordingsDir
 - Aula em horário regular (10:15 às 11:15) + compensação da aula 05.2 - 22/10/2020 (11:15 às 13:15)
 
 - David Lynch - Lost Highway (1997):
-  - [[/aula10.1/lostHighway.mov][Pasta da aula 10.1]] (clicar no botão /Download/ à direita)
+  - [[/aula10.1/lostHighway.mov][Pasta da aula 10.1]](clicar no botão /Download/ à direita)
   - IMDB: https://www.imdb.com/title/tt0116922/?ref_=nm_flmg_wr_39
 
 - The Sound of David Lynch - https://www.youtube.com/watch?v=lanvoUilIt4
@@ -381,4 +381,15 @@ thisProcess.platform.recordingsDir
     - Demonstre como os /parâmetros sonoros/ estudados (frequência, amplitude, textura, etc) se relacionam com outros elementos do objeto audiovisual (planos, diálogo, tempo, construção do personagem, etc).
     - Tente responder perguntas como "Por que esse som está aqui?", "Qual função ele cumpre?", "Por será que esse som foi construído dessa maneira?".
   - Para as cenas que por ventura não tenham elementos sonoros suficientes para análise, escolha outra cena do mesmo filme.
-# * AULA 10.2 - 26/11/2020
+* AULA 10.2 - 26/11/2020
+- Processamento de áudio
+  - Síntese -> desenhar em uma página em branco
+  - Processamento -> manipular imagem já existente
+
+- Slides: [[/aula10.2/aula10.2_pluginsProcessamento.pdf][Pasta da aula 10.2]]
+
+- Nova pasta na raiz do Github: [[/bancoSons][Banco de sons]]
+
+- Exercício!
+  - Experimentar livremente com o plugin de delay incluído no Reaper (JS: Delay), e criar sessão que contenha entre 3 e 5 arquivos do banco de sons.
+  - Lembrete: os procedimentos de edição já estudados como corte, fades, volume, etc, podem (e devem!) ser utilizados também.
