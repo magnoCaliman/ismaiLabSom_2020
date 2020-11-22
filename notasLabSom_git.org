@@ -153,7 +153,7 @@ Jade - 6 Hz
 Magno - 13 Hz
 #+END_SRC
 * AULA 04.2 - 15/10/2020
-- Não houve. Para compensar.
+- Não houve. Para compensar (não consta no sistema).
 * AULA 05.1 - 19/10/2020
 - Código:
 #+BEGIN_SRC ruby
@@ -239,6 +239,7 @@ Magno - 13 Hz
   - Para pensar: no nosso oscilador ~SinOsc.ar()~, controlado por ~MouseX.kr()~, que características sonoras (ou seja, algo que podemos perceber na escuta) remetem ao teremin? 
 * AULA 05.2 - 22/10/2020
 - Para compensar (EAD não válida no sistema)
+  - Compensada no dia 23/11/2020
 
 - Gerando arquivos de áudio com SuperCollider
 
@@ -325,7 +326,7 @@ thisProcess.platform.recordingsDir
     - https://www.google.com/search?tbm=isch&q=sonic%20the%20movie&tbs=imgo:1#imgrc=Ooo4o5VoyzxdfM
     - https://www.google.com/search?tbm=isch&q=ex%20machina&tbs=imgo:1
 * AULA 07.2 - 05/11/2020
-- Continuação discussão exercício da aula 6.2
+- Continuação discussão da aula 6.2
 * AULA 08.1 - 09/11/2020
 - Aula em horário regular (10:15 às 11:15) + compensação da aula 01.2 - 24/09/2020 (11:15 às 13:15)
 
@@ -349,11 +350,32 @@ thisProcess.platform.recordingsDir
 * AULA 09.1 - 16/11/2020
 - Continuação da discussão da aula 08.1
 * AULA 09.2 - 19/11/2020
-- Continuação da discussão da aula 08.1
+- Download do trecho de Kathryn Bigelow - The Hurt Locker (2008): [[/aula09.2/hurtLocker.mov][pasta da aula 09.2]]
+  - IMDB: https://www.imdb.com/title/tt0887912/
 
-- Download do trecho de David Lynch - Lost Highway (1997): [[/aula09.2/lostHighway.mov][pasta da aula 09.2]] (clicar no botão /Download/ à direita)
+- Conceitos:
+  - Diegese
 
 - Links extras vistos em aula:
   - Tinnitus - https://en.wikipedia.org/wiki/Tinnitus
   - Every Frame a Painting - Jacki Chan - How to Do Action Comedy - https://www.youtube.com/watch?v=Z1PCtIaM_GQ
   - Nerdwriter1 - https://www.youtube.com/user/Nerdwriter1/videos
+
+* AULA 10.1 - 21/11/2020
+- Aula em horário regular (10:15 às 11:15) + compensação da aula 05.2 - 22/10/2020 (11:15 às 13:15)
+
+- Download do trecho de David Lynch - Lost Highway (1997): [[/aula10.1/lostHighway.mov][pasta da aula 10.1]] (clicar no botão /Download/ à direita)
+  - IMDB: https://www.imdb.com/title/tt0116922/?ref_=nm_flmg_wr_39
+
+- The Sound of David Lynch - https://www.youtube.com/watch?v=lanvoUilIt4
+
+- Conceitos:
+  - Universo ficcional
+  - Representação da realidade
+
+- Exercício!
+  - Realizar análise em texto (entre 1/2 e 1 página de tamanho) de trecho de filme escolhido para aula de Estruturas Narrativas.
+  - Essa análise deve elaborar como o som presente na cena informa a construção da narrativa global.
+    - Demonstre como os /parâmetros sonoros/ estudados (frequência, amplitude, textura, etc) se relacionam com outros elementos do objeto audiovisual (planos, diálogo, tempo).
+    - Tente responder perguntas como "Por que esse som está aqui?", "Qual função ele cumpre?", "Por será que esse som foi construído dessa maneira?"
+  - Para as cenas que por ventura não tenham elementos sonoros suficientes para análise, escolha outra cena do mesmo filme
