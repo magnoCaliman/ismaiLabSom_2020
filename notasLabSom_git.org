@@ -393,3 +393,21 @@ thisProcess.platform.recordingsDir
 - Exercício!
   - Experimentar livremente com o plugin de delay incluído no Reaper (JS: Delay), e criar sessão que contenha entre 3 e 5 arquivos do banco de sons.
   - Lembrete: os procedimentos de edição já estudados como corte, fades, volume, etc, podem (e devem!) ser utilizados também.
+* AULA 11.1 - 03/12/2020
+- Slides:  [[/aula11.1/aula11.1_equalizacao.pdf][Pasta da aula 11.1]]
+
+[[/aula11.1/correcaoCor.jpg]]
+
+- Tipos de filtro do ReaEQ:
+  - High Pass
+  - Low Pass
+  - Band (reject)
+  - Band Pass
+
+- Sessões para exemplo:
+  - guitarraRuido.wav
+  - paisagemSonora.rpp
+
+- Exercícios!
+  1 - Ouvir o arquivo [[/aula11.1/wanda.mp3]], reconhecer a região frequencial problemática e remover essa banda de frequência.
+  2 - Criar uma paisagem sonora onde gravações de ambientes distintos são ouvidas simultaneamente, e a equalização é utilizada para "corrigir a cor", aglutinando sonoramente as várias fontes sonoras. Dica: https://freesound.org/ para buscar sons gratuitos. 
