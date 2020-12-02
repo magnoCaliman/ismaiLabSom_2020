@@ -396,7 +396,7 @@ thisProcess.platform.recordingsDir
 * AULA 11.1 - 03/12/2020
 - Slides:  [[/aula11.1/aula11.1_equalizacao.pdf][Pasta da aula 11.1]]
 
-[[/aula11.1/correcaoCor.jpg]]
+[[/aula11.1/correcaoCor_crop.png]]
 
 - Tipos de filtro do ReaEQ:
   - High Pass
@@ -409,5 +409,5 @@ thisProcess.platform.recordingsDir
   - paisagemSonora.rpp
 
 - Exercícios!
-  1 - Ouvir o arquivo [[/aula11.1/wanda.mp3]], reconhecer a região frequencial problemática e remover essa banda de frequência.
-  2 - Criar uma paisagem sonora onde gravações de ambientes distintos são ouvidas simultaneamente, e a equalização é utilizada para "corrigir a cor", aglutinando sonoramente as várias fontes sonoras. Dica: https://freesound.org/ para buscar sons gratuitos. 
+  - 1. Ouvir o arquivo [[/aula11.1/wanda.mp3]], reconhecer a região frequencial problemática e remover essa banda de frequência.
+  - 2. Criar uma paisagem sonora onde gravações de ambientes distintos são ouvidas simultaneamente, e a equalização é utilizada para "corrigir a cor", aglutinando sonoramente as várias fontes sonoras. Dica: https://freesound.org/ para buscar sons gratuitos. 
