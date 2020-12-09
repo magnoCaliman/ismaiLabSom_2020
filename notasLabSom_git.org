@@ -407,7 +407,10 @@ thisProcess.platform.recordingsDir
 - Sessões para exemplo:
   - guitarraRuido.wav
   - paisagemSonora.rpp
+  - mantra.mp3
 
 - Exercícios!
   - 1. Ouvir o arquivo [[/aula11.1/wanda.mp3][wanda.mp3]], reconhecer a região frequencial problemática e remover essa banda de frequência.
   - 2. Criar uma paisagem sonora onde gravações de ambientes distintos são ouvidas simultaneamente, e a equalização é utilizada para "corrigir a cor", aglutinando sonoramente as várias fontes sonoras. Dica: https://freesound.org/ para buscar sons gratuitos. 
+* AULA 12.1 - 10/12/2020
+- Continuação discussão aula 11.1
