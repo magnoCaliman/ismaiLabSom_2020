@@ -425,7 +425,7 @@ thisProcess.platform.recordingsDir
     - Aula 11.1 - 2 exercícios
       - *TOTAL*: --> 8 exercícios
 - Formato de entrega:
-  - Arquivo zip contendo todos os arquivos de cada exercícicos, *organizados em ficheiros de acordo com o números das aulas*
+  - Arquivo zip contendo todos os arquivos de cada exercícico, *organizados em ficheiros de acordo com o números das aulas*
   - Para os exercícios que envolvem utilização do SuperCollider, deve ser enviado o arquivo com código (.scd) juntamente do arquivo de áudio.
   - Para os exercícios que envolvem criação de sessões no Reaper, deve ser enviada pasta contendo o arquivo da sessão (.rpp) *e todos os arquivos de mídia para que a sessão seja ouvida!*.
   - Para o exercício de análise de cena (aula 10.1) deve ser enviado arquivo PDF com texto + video da cena analisada (junto do zip, ou link para download externo).
