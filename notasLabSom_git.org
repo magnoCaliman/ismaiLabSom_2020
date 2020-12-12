@@ -436,7 +436,8 @@ thisProcess.platform.recordingsDir
   - Apresentação de objeto artístico-exploratório em media de livre escolha (video, instalação interativa, impresso, escultura, web art, etc.) que integre uma componente sonora à outros elementos multimédia.
   - O objeto deve necessariamente fazer uso de outras medias, portanto não deve ser somente sonoro.
   - É altamente recomendado que o trabalho seja criado especificamente para essa cadeira, ou criado em conjunto com trabalho de outra cadeira desse semestre, uma vez que o objetivo é desenvolver e pensar a dimensão sonora em conjunção com outras formas de expressão (e não apenas como suporte).
-  - Para projetos onde não seja possível a realização física, é permitida a entrega de protótipo junto de descrição em PDF. 
+  - Para projetos onde não seja possível a realização física, é permitida a entrega de protótipo junto de descrição em PDF
+  - O projeto pode ser realizado individualmente, ou em duplas
 - Formato de entrega:
   - Arquivo digital do projeto em seu formato específico
   - PDF contendo texto inverstigativo, maquete visual (caso se aplique) e texto técnico
