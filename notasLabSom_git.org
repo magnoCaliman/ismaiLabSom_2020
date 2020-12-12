@@ -427,24 +427,24 @@ thisProcess.platform.recordingsDir
 - Formato de entrega:
   - Arquivo zip contendo todos os arquivos de cada exercícico, *organizados em ficheiros de acordo com o números das aulas*
   - Para os exercícios que envolvem utilização do SuperCollider, deve ser enviado o arquivo com código (.scd) juntamente do arquivo de áudio.
-  - Para os exercícios que envolvem criação de sessões no Reaper, deve ser enviada pasta contendo o arquivo da sessão (.rpp) *e todos os arquivos de mídia para que a sessão seja ouvida!*.
-  - Para o exercício de análise de cena (aula 10.1) deve ser enviado arquivo PDF com texto + video da cena analisada (junto do zip, ou link para download externo).
+  - Para os exercícios que envolvem criação de sessões no Reaper, deve ser enviada pasta contendo o arquivo da sessão (.rpp) *e todos os arquivos de mídia para que a sessão seja válida!*
+  - Para o exercício de análise de cena (aula 10.1) deve ser enviado arquivo PDF com texto + video da cena analisada (junto do zip, ou link para download externo)
 - Data de entrega:
   - 18/12/2020
 ** AVALIAÇÃO - MOMENTO 2 (50%) - PROJETO FINAL
 - Descrição:
-  - Apresentação de objeto artístico-exploratório em media de livre escolha (video, instalação interativa, impresso, escultura, web art, etc.) que integre uma componente sonora à outros elementos multimédia.
-  - O objeto deve necessariamente fazer uso de outras medias, portanto não deve ser somente sonoro.
-  - É altamente recomendado que o trabalho seja criado especificamente para essa cadeira, ou criado em conjunto com trabalho de outra cadeira desse semestre, uma vez que o objetivo é desenvolver e pensar a dimensão sonora em conjunção com outras formas de expressão (e não apenas como suporte).
-  - Para projetos onde não seja possível a realização física, é permitida a entrega de protótipo junto de descrição em PDF
-  - O projeto pode ser realizado individualmente, ou em duplas
+  - Apresentação de objeto artístico-exploratório em media de livre escolha (video, instalação interativa, impresso, escultura, web art, etc.) que integre uma componente sonora à outros elementos multimédia
+  - O objeto deve necessariamente fazer uso de outras medias, portanto não deve ser somente sonoro
+  - É altamente recomendado que o trabalho seja criado especificamente para essa cadeira, ou criado em conjunto com trabalho de outra cadeira *desse semestre*, uma vez que o objetivo é desenvolver e pensar a dimensão sonora em conjunção com outras formas de expressão (e não apenas como suporte)
+  - Para projetos onde não seja possível a realização física, é permitida a proposição de protótipo junto de descrição em PDF
 - Formato de entrega:
   - Arquivo digital do projeto em seu formato específico
   - PDF contendo texto inverstigativo, maquete visual (caso se aplique) e texto técnico
   - Pasta da sessão do Reaper contendo as mídias criadas
   - Código fonte de SuperCollider (caso se aplique)
   - Deve ser submetido no portal da ISMAI, na opção "Entrega de trabalhos"
+  - O projeto pode ser realizado individualmente, ou em duplas
 - Datas de entrega:
-  - 04/01/2021 - Apresentação verbal de *5 minutos* com idéia principal do projeto.
-  - Última semana de aulas (entre 18 e 21 de Janeiro-2021) - Entrega final e talvez apresentação para turma (à confirmar).
+  - 04/01/2021 - Apresentação verbal de *5 minutos* com idéia principal do projeto
+  - Última semana de aulas (entre 18 e 21 de Janeiro-2021) - Entrega final e talvez apresentação para turma (à confirmar)
 
