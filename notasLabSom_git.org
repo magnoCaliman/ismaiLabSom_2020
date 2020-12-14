@@ -429,6 +429,7 @@ thisProcess.platform.recordingsDir
   - Para os exercícios que envolvem utilização do SuperCollider, deve ser enviado o arquivo com código (.scd) 
   - Para os exercícios que envolvem criação de sessões no Reaper, deve ser enviada pasta contendo o arquivo da sessão (.rpp) *e todos os arquivos de mídia para que a sessão seja válida!*
   - Para o exercício de análise de cena (aula 10.1) deve ser enviado arquivo PDF com texto + video da cena analisada (junto do zip, ou link para download externo)
+  - Deve ser submetido no portal da ISMAI, na opção "Entrega de trabalhos"
 - Data de entrega:
   - 18/12/2020
 ** AVALIAÇÃO - MOMENTO 2 (50%) - PROJETO FINAL
