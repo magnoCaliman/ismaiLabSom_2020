@@ -449,3 +449,75 @@ thisProcess.platform.recordingsDir
   - 04/01/2021 - Apresentação verbal de *5 minutos* com idéia principal do projeto
   - Última semana de aulas (entre 18 e 21 de Janeiro-2021) - Entrega final e talvez apresentação para turma (à confirmar)
 
+* ORIENTAÇÃO PROJETOS FINAIS
+** Alexandre Oliveira
+*** Aula 14.1 - 04/01/2021
+- reconstruir publicidade
+  - https://www.youtube.com/watch?v=R-MbpXbfBvA&ab_channel=SuperBock
+  - https://www.youtube.com/watch?v=tY3t84HJVnU&ab_channel=SuperBockGroup-Comunica%C3%A7%C3%A3o
+- sugestão
+  - possível construir mais de uma narrativa para a mesma sequência visual já cristalizada?
+
+** António Peixoto && Verónica Cardoso
+*** Aula 14.1 - 04/01/2021
+- investigação de um espaco de escuta. sanatorio do valongo
+- referências:
+  - dois caminhos diferentes, tecnicamente.
+    - simulação: ambisonics / spatial audio / binaural simulation
+      - https://www.theverge.com/2017/11/6/16614348/google-resonance-audio-3d-sound-vr-ar
+      - https://www.gamasutra.com/blogs/LarryYuchengChang/20181023/329208/Audio_Design_for_Interactive_Narrative_VR_Experiences.php
+      - https://plugins.iem.at/
+      - https://www.blueripplesound.com/products/o3a-core
+      - http://anaglyph.dalembert.upmc.fr/
+    - captação: impulse response
+** Inês Barros
+** Inês Braga
+*** Aula 14.1 - 04/01/2021
+- fazer música "abstrata" + compartilhar com outros artistas de outras áreas p/ "interpretar"
+- quais artistas / meios? pensar modo de apresentação do objeto final.
+** Inês Rodrigues && Pedro Ferreira
+*** Aula 14.1 - 04/01/2021
+- sonitus maiorum. memória sonora de eventos.
+- referências:
+  - história da fonografia. advento do som gravado.
+  - https://editoraperspectiva.com.br/produtos/musica-e-mediacao-tecnologica/
+  - J, STERNE - Audible past - Cultural origins of sound reproduction
+- como lidar com momentos históricos onde a imagem também não existe? não há som do sismo de lisboa. mas também não há gravacão...
+- pesquisar imagens do tsunami do oceano índico de 2004. diferente do imagético do cinema da onda gigante.
+** Jade Felix
+*** Aula 14.1 - 04/01/2021
+- cenário de vila de bruxa para cadeira de modelacao
+  - curta metragem sem imagem
+- pergunta: como o .OBJ interage com o som? o objeto final é interativo ou estático? como ajuda a contar a história sonora?
+- referência: audio games (jogos sem componente visual)
+** Joana Santos
+*** Aula 14.1 - 04/01/2021
+- voyerismo em época de covid
+  - covid e transmissão do vírus
+  - "mas só acontece com os outros"
+- referências:
+  - field recording:
+    - https://www.theguardian.com/world/2020/mar/31/art-project-captures-sound-of-cities-during-coronavirus-outbreak
+    - https://pauloraposo.bandcamp.com/album/on-the-other-shore-soundscapes-from-barreiro
+    - https://melissapons.bandcamp.com/
+    - https://paulodantas.bandcamp.com/album/cidade-arquip-lago
+** Miguel Afonso
+*** Aula 14.1 - 04/01/2021
+- foley de guerra
+  - https://www.youtube.com/watch?v=JHFXG3r_0B8
+  - https://www.studiobinder.com/blog/what-is-a-foley-artist/
+  - https://www.youtube.com/watch?v=NsfbXGDw_aA
+  - https://www.loc.gov/audio/
+- qual a media final de apresentacão? como o som se relaciona com o visual?
+** Miguel Ferreira && Rita Azeredo
+*** Aula 14.1 - 04/01/2021
+- simulacão de um ambiente imersivo em VR. "criar um ambiente de guerra"
+- valem todas as referênicas sobre simulacão e ambisonics do trabalho do António e Verónica
+- qual o formato final de apresentacão?
+
+** Miguel Maia
+** Rodrigo Cardoso
+*** Aula 14.1 - 04/01/2021
+- integracão com producão de video da cadeira de técnicas audiovisuais
+- ainda sem tema
+
