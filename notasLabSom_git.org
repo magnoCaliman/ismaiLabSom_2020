@@ -450,6 +450,7 @@ thisProcess.platform.recordingsDir
   - Última semana de aulas (entre 18 e 21 de Janeiro-2021) - Entrega final e talvez apresentação para turma (à confirmar)
 
 * ORIENTAÇÃO PROJETOS FINAIS
+
 ** Alexandre Oliveira
 *** Aula 14.1 - 04/01/2021
 - reconstruir publicidade
@@ -457,6 +458,8 @@ thisProcess.platform.recordingsDir
   - https://www.youtube.com/watch?v=tY3t84HJVnU&ab_channel=SuperBockGroup-Comunica%C3%A7%C3%A3o
 - sugestão
   - possível construir mais de uma narrativa para a mesma sequência visual já cristalizada?
+*** Aula 14.2 - 07/01/2021
+- ver referências de foley do trabalho do Miguel
 
 ** António Peixoto && Verónica Cardoso
 *** Aula 14.1 - 04/01/2021
@@ -470,11 +473,15 @@ thisProcess.platform.recordingsDir
       - https://www.blueripplesound.com/products/o3a-core
       - http://anaglyph.dalembert.upmc.fr/
     - captação: impulse response
+
 ** Inês Barros
 ** Inês Braga
 *** Aula 14.1 - 04/01/2021
 - fazer música "abstrata" + compartilhar com outros artistas de outras áreas p/ "interpretar"
 - quais artistas / meios? pensar modo de apresentação do objeto final.
+*** Aula 14.2 - 07/01/2021
+- humming no áudio de referência. intencional?
+
 ** Inês Rodrigues && Pedro Ferreira
 *** Aula 14.1 - 04/01/2021
 - sonitus maiorum. memória sonora de eventos.
@@ -484,12 +491,21 @@ thisProcess.platform.recordingsDir
   - J, STERNE - Audible past - Cultural origins of sound reproduction
 - como lidar com momentos históricos onde a imagem também não existe? não há som do sismo de lisboa. mas também não há gravacão...
 - pesquisar imagens do tsunami do oceano índico de 2004. diferente do imagético do cinema da onda gigante.
+
 ** Jade Felix
 *** Aula 14.1 - 04/01/2021
 - cenário de vila de bruxa para cadeira de modelacao
   - curta metragem sem imagem
 - pergunta: como o .OBJ interage com o som? o objeto final é interativo ou estático? como ajuda a contar a história sonora?
 - referência: audio games (jogos sem componente visual)
+*** Aula 14.2 - 05/01/2021
+- https://www.audiogamebreu.com.br/
+- radio drama
+  - https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama)
+  - https://www.smithsonianmag.com/history/infamous-war-worlds-radio-broadcast-was-magnificent-fluke-180955180/
+  - https://open.spotify.com/show/0iBeCCeLXIp52rygUtcQrF?si=jaiNzLvSQ4KNM-sdhKRiCw
+  - https://open.spotify.com/show/3ImOWdGnN8mHFNaKwMSFJx?si=OfkN3XfVTZ-q6PCvSlc0tA
+  - https://www.1986podcast.com.br/
 ** Joana Santos
 *** Aula 14.1 - 04/01/2021
 - voyerismo em época de covid
@@ -501,6 +517,11 @@ thisProcess.platform.recordingsDir
     - https://pauloraposo.bandcamp.com/album/on-the-other-shore-soundscapes-from-barreiro
     - https://melissapons.bandcamp.com/
     - https://paulodantas.bandcamp.com/album/cidade-arquip-lago
+*** Aula 14.2 - 07/21/2021
+- procurar apps android para gravação:
+  - sem pré-processamento do áudio
+  - que permitam monitoramento da gravação em tempo real (ouvir o que se está gravando pelos auriculares)
+
 ** Miguel Afonso
 *** Aula 14.1 - 04/01/2021
 - foley de guerra
@@ -508,7 +529,15 @@ thisProcess.platform.recordingsDir
   - https://www.studiobinder.com/blog/what-is-a-foley-artist/
   - https://www.youtube.com/watch?v=NsfbXGDw_aA
   - https://www.loc.gov/audio/
+  - https://www.youtube.com/watch?v=BdqoA54N1TA
+  - https://www.youtube.com/watch?v=M0iSCfmIdqg
 - qual a media final de apresentacão? como o som se relaciona com o visual?
+*** Aula 14.2 - 07/01/2021
+- atentar na edição da narração para:
+  - /handling noise/ - ruídos de manipulação física do microfone durante a captação
+  - distorção na entrada de áudio - ganho alto demais distorcendo o sinal quando fala-se mais alto
+  - silêncios digitais - pesquisar sobre /room tone/ e como utilizar na edição para esconder emendas
+
 ** Miguel Ferreira && Rita Azeredo
 *** Aula 14.1 - 04/01/2021
 - simulacão de um ambiente imersivo em VR. "criar um ambiente de guerra"
