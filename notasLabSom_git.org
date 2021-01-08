@@ -521,6 +521,7 @@ thisProcess.platform.recordingsDir
 - procurar apps android para gravação:
   - sem pré-processamento do áudio
   - que permitam monitoramento da gravação em tempo real (ouvir o que se está gravando pelos auriculares)
+  - [[https://www.dropbox.com/s/bkcgvtho1j5zo95/Gandy%2C%20M%20-%20The%20Acoustic%20City.pdf?dl=0][Gandy, M - The Acoustic City (capt 2, talve em especial "Eavesdropping")]]
 
 ** Miguel Afonso
 *** Aula 14.1 - 04/01/2021
