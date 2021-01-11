@@ -462,6 +462,9 @@ thisProcess.platform.recordingsDir
 *** Aula 14.2 - 07/01/2021
 - ver referências de foley do trabalho do Miguel
 
+*** Aula 15.1 - 11/01/2021
+- gravacao foley + video
+- referencias de captacao do projeto da Joana
 ** António Peixoto && Verónica Cardoso
 *** Aula 14.1 - 04/01/2021
 - investigação de um espaco de escuta. sanatorio do valongo
@@ -474,6 +477,10 @@ thisProcess.platform.recordingsDir
       - https://www.blueripplesound.com/products/o3a-core
       - http://anaglyph.dalembert.upmc.fr/
     - captação: impulse response
+
+*** Aula 15.1 - 11/01/2021
+- room tone em locação
+- definir formato
 
 ** Inês Barros
 ** Inês Braga
@@ -520,9 +527,17 @@ thisProcess.platform.recordingsDir
     - https://paulodantas.bandcamp.com/album/cidade-arquip-lago
 *** Aula 14.2 - 07/21/2021
 - procurar apps android para gravação:
+  - apps:
+    - RecForge II - https://play.google.com/store/apps/details?id=dje073.android.modernrecforge&hl=en_US&gl=US
   - sem pré-processamento do áudio
   - que permitam monitoramento da gravação em tempo real (ouvir o que se está gravando pelos auriculares)
   - [[https://www.dropbox.com/s/bkcgvtho1j5zo95/Gandy%2C%20M%20-%20The%20Acoustic%20City.pdf?dl=0][Gandy, M - The Acoustic City (capt 2, talve em especial "Eavesdropping")]]
+
+*** Aula 15.1 - 01/11/2021
+- afunilamento do foco/tema - enclusuramento, isolamento.
+- já gravou áudios e videos
+- referência video-arte
+  - descolamento áudio/video
 
 ** Miguel Afonso
 *** Aula 14.1 - 04/01/2021
@@ -540,6 +555,14 @@ thisProcess.platform.recordingsDir
   - distorção na entrada de áudio - ganho alto demais distorcendo o sinal quando fala-se mais alto
   - silêncios digitais - pesquisar sobre /room tone/ e como utilizar na edição para esconder emendas
 
+*** Aula 15.1 - 11/01/2021
+- narracoes feitas
+- diferentes vozes
+- mistura video jogos 3D + video documental guerra
+- referências
+  - narracao: https://duckduckgo.com/?q=narrator+David+Attenborough&ia=web
+  - filme com ambientes 3d: second life, the sims, GTA
+  - gravacao de voz antes da animacão
 ** Miguel Ferreira && Rita Azeredo
 *** Aula 14.1 - 04/01/2021
 - simulacão de um ambiente imersivo em VR. "criar um ambiente de guerra"
