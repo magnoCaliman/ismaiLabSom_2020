@@ -563,6 +563,9 @@ thisProcess.platform.recordingsDir
   - narracao: https://duckduckgo.com/?q=narrator+David+Attenborough&ia=web
   - filme com ambientes 3d: second life, the sims, GTA
   - gravacao de voz antes da animacão
+*** Aula 15.1 - 14/01/2021
+- automação: https://www.youtube.com/c/TheREAPERBlog/search?query=automation
+- edição de video: https://www.youtube.com/c/TheREAPERBlog/search?query=video%20editing
 ** Miguel Ferreira && Rita Azeredo
 *** Aula 14.1 - 04/01/2021
 - simulacão de um ambiente imersivo em VR. "criar um ambiente de guerra"
@@ -570,6 +573,13 @@ thisProcess.platform.recordingsDir
 - qual o formato final de apresentacão?
 
 ** Miguel Maia
+*** Aula 15.2 - 14/01/2021
+- referências sobre foley, trabalho Miguel Afonso
+- foley em videos já gravados
+- "sobre ansiedade"
+- tarkovsky
+  - https://www.youtube.com/watch?v=PqiVV43Hdi0
+  - https://www.youtube.com/watch?v=R2-DaRZzh0I
 ** Rodrigo Cardoso
 *** Aula 14.1 - 04/01/2021
 - integracão com producão de video da cadeira de técnicas audiovisuais
